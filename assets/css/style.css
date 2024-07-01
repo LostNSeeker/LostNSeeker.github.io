@@ -208,11 +208,11 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
-  flex: 1 1 50rem;
+  flex: 1 1 40rem;
   z-index: 1;
 }
 .home .image img {
-  height: 45rem;
+  height: 40rem;
   margin-left: 6rem;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
